@@ -16,6 +16,6 @@ public class Proyecto_Java {
         int y = 20;
         int suma = x + y;
         System.out.println(" La suma de x e y es: " + suma);
-        
+        System.out.println(" Hola de nuevo, esta es otra prueba !!! ");
     }
 }
