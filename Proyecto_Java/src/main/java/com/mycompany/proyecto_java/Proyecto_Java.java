@@ -11,6 +11,7 @@ package com.mycompany.proyecto_java;
 public class Proyecto_Java {
 
     public static void main(String[] args) {
+        new panel1().setVisible(true);
         System.out.println(" Esta es una pruebaaaa !!! ");
         int x = 10;
         int y = 20;
