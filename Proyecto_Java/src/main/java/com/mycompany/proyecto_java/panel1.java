@@ -44,7 +44,7 @@ public class panel1 extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton1.setText("jButton1");
+        jButton1.setText("jButton");
 
         jButton2.setText("jButton2");
 
